@@ -1,0 +1,6 @@
+.test-div{
+/* make sure to put a period before naming the class */
+background: pink;
+padding: 20px;
+margin: 20px;
+}
