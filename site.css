@@ -1,0 +1,15 @@
+BODY { background: #fee5ff; padding: 50px;}
+/* change background color */
+
+H1, H2, H3 {color: #df20f8; font-family: sans-serif;}
+/* change header color */
+
+#sylv {width: 200px;}
+/* edit image width, height will change to match */
+
+#introduction h2 {color:#5aabfc; font-style: italic;}
+
+.navigation{
+    display: flex;
+    gap: 10px;
+}
