@@ -23,4 +23,4 @@ megaSentence = megaSentence + "<p>My favourite commute possesses such characteri
 //oh shit it says to change your examples ugh
 
 $("#output").html(megaSentence);
-//allows output
+//puts div=output to display megasentence but. it's not working??? wtf?
