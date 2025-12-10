@@ -14,7 +14,7 @@ let myFavouriteCommute = {
 
 let megaSentence;   
 
-megaSentence = "<p> My top two paths to campus are:" + myWays[0] + ", " + myWays[3] + "</p>";
+megaSentence = "<p> My top two paths to campus are: " + myCommutes[0] + ", " + myCommutes[3] + "</p>";
 
 megaSentence = megaSentence + "<p>My favourite commute possesses such characteristics: type - " 
 + myFavouriteCommute.type + ", color - " + myFavouriteCommute.color + 
